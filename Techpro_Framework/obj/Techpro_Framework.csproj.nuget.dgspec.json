@@ -44,25 +44,25 @@
               "target": "Package",
               "version": "[4.1.0, )"
             },
-            "NUnit": {
+            "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[3.13.2, )"
+              "version": "[16.8.3, )"
             },
             "NUnit3TestAdapter": {
               "target": "Package",
-              "version": "[4.1.0, )"
+              "version": "[3.17.0, )"
             },
             "RestSharp": {
               "target": "Package",
-              "version": "[106.13.0, )"
+              "version": "[106.11.7, )"
             },
             "Snapshooter.NUnit": {
               "target": "Package",
-              "version": "[0.7.1, )"
+              "version": "[0.6.2, )"
             },
             "SpecFlow": {
               "target": "Package",
-              "version": "[3.9.40, )"
+              "version": "[3.6.23, )"
             },
             "SpecFlow.Assist.Dynamic": {
               "target": "Package",
@@ -70,11 +70,15 @@
             },
             "SpecFlow.NUnit": {
               "target": "Package",
-              "version": "[3.9.40, )"
+              "version": "[3.6.23, )"
             },
             "SpecFlow.Tools.MsBuild.Generation": {
               "target": "Package",
-              "version": "[3.9.40, )"
+              "version": "[3.6.23, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.13.0, )"
             }
           },
           "imports": [

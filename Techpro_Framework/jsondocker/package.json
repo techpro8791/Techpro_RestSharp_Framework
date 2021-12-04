@@ -1,0 +1,30 @@
+{
+  "name": "json-server-docker",
+  "version": "0.0.0-semantically-released",
+  "private": true,
+  "scripts": {
+    "start": "./server.sh",
+    "dev": "nodemon -w db.js -w middleware.js -w routes.json --exec ./server.sh",
+    "format": "cod-scripts format",
+    "lint": "cod-scripts lint"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.9.2",
+    "faker": "git+https://git@github.com/Marak/faker.js.git#3b2fa4a",
+    "lodash": "^4.17.15",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {
+    "cod-scripts": "^4.0.2"
+  },
+  "eslintConfig": {
+    "extends": [
+      "./node_modules/cod-scripts/eslint.js"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "cod-scripts pre-commit"
+    }
+  }
+}
