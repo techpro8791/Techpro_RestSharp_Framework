@@ -1,0 +1,13 @@
+﻿{
+  "id": 29,
+  "city": "Auckland",
+  "country": "NZ",
+  "address": [
+    {
+      "street": "12th New Lynn",
+      "flat_no": "121A",
+      "pincode": 629,
+      "type": "primary"
+    }
+  ]
+}
