@@ -1,0 +1,16 @@
+C:\Users\anaje\source\repos\NECs\Frameworks\C#\Techpro_RestSharp_Framework\Techpro_Framework\obj\Debug\netcoreapp3.1\Techpro_Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaje\source\repos\NECs\Frameworks\C#\Techpro_RestSharp_Framework\Techpro_Framework\obj\Debug\netcoreapp3.1\Techpro_Framework.AssemblyInfoInputs.cache
+C:\Users\anaje\source\repos\NECs\Frameworks\C#\Techpro_RestSharp_Framework\Techpro_Framework\obj\Debug\netcoreapp3.1\Techpro_Framework.AssemblyInfo.cs
+C:\Users\anaje\source\repos\NECs\Frameworks\C#\Techpro_RestSharp_Framework\Techpro_Framework\obj\Debug\netcoreapp3.1\Techpro_Framework.csproj.CoreCompileInputs.cache
+C:\Users\anaje\source\repos\NECs\Frameworks\C#\Techpro_RestSharp_Framework\Techpro_Framework\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\anaje\source\repos\NECs\Frameworks\C#\Techpro_RestSharp_Framework\Techpro_Framework\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\anaje\source\repos\NECs\Frameworks\C#\Techpro_RestSharp_Framework\Techpro_Framework\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\anaje\source\repos\NECs\Frameworks\C#\Techpro_RestSharp_Framework\Techpro_Framework\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\anaje\source\repos\NECs\Frameworks\C#\Techpro_RestSharp_Framework\Techpro_Framework\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\anaje\source\repos\NECs\Frameworks\C#\Techpro_RestSharp_Framework\Techpro_Framework\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\anaje\source\repos\NECs\Frameworks\C#\Techpro_RestSharp_Framework\Techpro_Framework\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\Users\anaje\source\repos\NECs\Frameworks\C#\Techpro_RestSharp_Framework\Techpro_Framework\bin\Debug\netcoreapp3.1\Techpro_Framework.deps.json
+C:\Users\anaje\source\repos\NECs\Frameworks\C#\Techpro_RestSharp_Framework\Techpro_Framework\bin\Debug\netcoreapp3.1\Techpro_Framework.dll
+C:\Users\anaje\source\repos\NECs\Frameworks\C#\Techpro_RestSharp_Framework\Techpro_Framework\bin\Debug\netcoreapp3.1\Techpro_Framework.pdb
+C:\Users\anaje\source\repos\NECs\Frameworks\C#\Techpro_RestSharp_Framework\Techpro_Framework\obj\Debug\netcoreapp3.1\Techpro_Framework.dll
+C:\Users\anaje\source\repos\NECs\Frameworks\C#\Techpro_RestSharp_Framework\Techpro_Framework\obj\Debug\netcoreapp3.1\Techpro_Framework.pdb
